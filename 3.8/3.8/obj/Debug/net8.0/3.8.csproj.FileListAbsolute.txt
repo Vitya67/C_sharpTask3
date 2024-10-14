@@ -1,0 +1,14 @@
+C:\Users\invok\source\repos\3.8\3.8\obj\Debug\net8.0\3.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\invok\source\repos\3.8\3.8\obj\Debug\net8.0\3.8.AssemblyInfoInputs.cache
+C:\Users\invok\source\repos\3.8\3.8\obj\Debug\net8.0\3.8.AssemblyInfo.cs
+C:\Users\invok\source\repos\3.8\3.8\obj\Debug\net8.0\3.8.csproj.CoreCompileInputs.cache
+C:\Users\invok\source\repos\3.8\3.8\bin\Debug\net8.0\3.8.exe
+C:\Users\invok\source\repos\3.8\3.8\bin\Debug\net8.0\3.8.deps.json
+C:\Users\invok\source\repos\3.8\3.8\bin\Debug\net8.0\3.8.runtimeconfig.json
+C:\Users\invok\source\repos\3.8\3.8\bin\Debug\net8.0\3.8.dll
+C:\Users\invok\source\repos\3.8\3.8\bin\Debug\net8.0\3.8.pdb
+C:\Users\invok\source\repos\3.8\3.8\obj\Debug\net8.0\3.8.dll
+C:\Users\invok\source\repos\3.8\3.8\obj\Debug\net8.0\refint\3.8.dll
+C:\Users\invok\source\repos\3.8\3.8\obj\Debug\net8.0\3.8.pdb
+C:\Users\invok\source\repos\3.8\3.8\obj\Debug\net8.0\3.8.genruntimeconfig.cache
+C:\Users\invok\source\repos\3.8\3.8\obj\Debug\net8.0\ref\3.8.dll
